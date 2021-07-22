@@ -1,0 +1,5 @@
+Credentials cache: API:4AFA0EE7-5B4A-4E75-B8A3-69FF508600F2
+        Principal: bnicolas@42.FR
+
+  Issued                Expires               Principal
+Jun 28 15:28:07 2021  Jul  5 15:27:53 2021  krbtgt/42.FR@42.FR
