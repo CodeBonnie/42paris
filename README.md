@@ -1,2 +1,2 @@
-# 42paris
-Just my days from when i tried it
+# 42
+Just an archive of my pool folder at 42 Paris.
